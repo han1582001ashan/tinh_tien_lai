@@ -1,0 +1,14 @@
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tinh_tien_lai\bin\Debug\net8.0\tinh_tien_lai.exe
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tinh_tien_lai\bin\Debug\net8.0\tinh_tien_lai.deps.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tinh_tien_lai\bin\Debug\net8.0\tinh_tien_lai.runtimeconfig.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tinh_tien_lai\bin\Debug\net8.0\tinh_tien_lai.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tinh_tien_lai\bin\Debug\net8.0\tinh_tien_lai.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tinh_tien_lai\obj\Debug\net8.0\tinh_tien_lai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tinh_tien_lai\obj\Debug\net8.0\tinh_tien_lai.AssemblyInfoInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tinh_tien_lai\obj\Debug\net8.0\tinh_tien_lai.AssemblyInfo.cs
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tinh_tien_lai\obj\Debug\net8.0\tinh_tien_lai.csproj.CoreCompileInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tinh_tien_lai\obj\Debug\net8.0\tinh_tien_lai.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tinh_tien_lai\obj\Debug\net8.0\refint\tinh_tien_lai.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tinh_tien_lai\obj\Debug\net8.0\tinh_tien_lai.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tinh_tien_lai\obj\Debug\net8.0\tinh_tien_lai.genruntimeconfig.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\tinh_tien_lai\obj\Debug\net8.0\ref\tinh_tien_lai.dll
